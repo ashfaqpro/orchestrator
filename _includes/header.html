@@ -22,7 +22,7 @@
       </a>
       <div class="trigger">
         {% for page in site.pages %}
-          {% if page.title %}<a class="page-link" data-pagenumber="{{ page.navNumber }}" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
+          {% if page.title %}<a class="page-link" data-pagenumber="{{ page.navNumber }}" data-dontDisplayInNav="{{ page.dontDisplayInNav }}" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
         {% endfor %}
       </div>
     </nav>
