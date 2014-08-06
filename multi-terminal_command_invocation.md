@@ -15,7 +15,17 @@ dontDisplayInNav : Yes
 <p>
 Experience a terminal like view to execute shell commands simultaneously on multiple instances. Analyze the results and statuses of the commands run. Construct and export the obtained results as reports.</p>
 
-<h3>Detailed :</h2>
+<div class='gallerysection'>
+<a rel="gallery" class="fancybox" href="/orchestrator/images/multi-terminal-command.png">
+<img src="/orchestrator/images/thumb/multi-terminal-command.png" alt=""/>
+</a>
+
+<a rel="gallery" class="fancybox" href="/orchestrator/images/multi-terminal3.png">
+<img src="/orchestrator/images/thumb/multi-terminal3.png" alt=""/>
+</a>
+
+</div>
+
 <ul>
 <li>Given the instance keys, Orchestrator allows the devops user to remotely connect to selected instances and run shell commands</li>
 

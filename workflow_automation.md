@@ -15,7 +15,15 @@ dontDisplayInNav : Yes
 <p>
 Get a holistic view of the site and a clear perspective of the instances, details, statuses and connectivity. Customize the way the instances are grouped and define your own view of your site.</p>
 
-<h3>Detailed :</h2>
+<div class='gallerysection'>
+<a rel="gallery" class="fancybox" href="/orchestrator/images/workflow-vagrant-discovery.png">
+<img src="/orchestrator/images/thumb/workflow-vagrant-discovery.png" alt=""/>
+<h4>workflow Vagrant discovery </h4>
+</a>
+</div>
+
+
+
 <p>You can automate anything – from simple software setup and configuration to complicated application deployment on your site. Orchestrator lets you define, view, publish, execute and schedule workflows to be run on various instances.</p>
 <ul>
 <li>Define a workflow with the necessary scripts.</li>
