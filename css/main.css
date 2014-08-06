@@ -899,6 +899,7 @@ border: 1px solid rgba(255, 255, 255, 0.39) !important;
     padding-bottom: 50px;
     position: relative;
     top: -39px;
+min-height: 540px;
 }
 li {
 }
@@ -908,3 +909,4 @@ li {
 header.post-header {
     display: none;
 }
+
