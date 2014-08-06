@@ -899,6 +899,7 @@ border: 1px solid rgba(255, 255, 255, 0.39) !important;
     padding-bottom: 50px;
     position: relative;
     top: -39px;
+min-height: 540px;
 }
 li {
 }
@@ -907,4 +908,39 @@ li {
 }
 header.post-header {
     display: none;
+}
+
+.main-features-list li {
+    display: block;
+    padding: 10px;
+    background: rgb(247, 247, 247);
+    margin: 3px;
+    float: left;
+    border: 1px solid #F1F0F0;
+    width: 219px;
+    text-align: center;
+    min-height: 70px;
+}
+.main-features-list {
+    margin-top: 50px;
+}
+
+.sidebar-wrapper {
+    position: absolute;
+    right: 20px;
+    top: 40px;
+    max-width: 220px;
+}
+.sidebar-wrapper li {
+    list-style: none;
+    font-size: 12px;
+    display: block;
+    padding-bottom: 15px;
+}
+
+.content-area {
+    margin-right: 200px;
+}
+.content-area li {
+    margin-top: 16px;
 }
