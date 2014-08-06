@@ -12,4 +12,21 @@ $(".trigger a[data-pagenumber]").addClass('generated');
 $( ".trigger a" ).not( ".generated" )
   .remove();
   
+  
+   photoPaneSlider = $('.photoSlider').bjqs({
+        'showMarkers': false,
+        'showControls': false,
+        'animation': 'slide',
+        'automatic': false,
+    });
+
+    $('.sliderNav').on('click', 'li', function() {
+        var id = $(this).data('slideid');
+        photoPaneSlider.goto(id);
+        $(this).siblings().removeClass("on");
+        $(this).addClass("on");
+    });
+
+    $('.sliderNav li:first').addClass("on");
+  
 });
