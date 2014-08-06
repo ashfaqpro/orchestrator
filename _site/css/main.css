@@ -894,7 +894,7 @@ border: 1px solid rgba(255, 255, 255, 0.39) !important;
     width: 90px;
 }
 .section-image {
-    min-height: 80px;
+    min-height: 110px;
 }
 
 .mainContent {
@@ -1008,4 +1008,51 @@ a.fancybox {
 
 .inner .page-content{
 	padding-top:1px;
+}
+
+.section-image:after {
+    display: block;
+    width: 100px;
+    height: 100px;
+    background: rgba(250, 250, 250, 0);
+    position: absolute;
+    content: '';
+    margin: auto 110px;
+    border-radius: 60px;
+    top: 10px;
+    left: -21px;
+    z-index: 0;
+    box-shadow: inset 1px 1px 39px 10px rgba(0, 0, 0, 0.14), 1px 1px 6px 10px rgba(0, 0, 0, 0.04);
+}
+
+.cloud_discovery .section-image img{
+margin-top: 24px;
+margin-left: -5px;
+}
+
+.key_management_and_application_discovery .section-image img{
+margin-top: 27px;
+margin-left: -4px;
+}
+
+.network-topology .section-image img{
+margin-top: 18px;
+margin-left: -6px;
+}
+
+.integration_with_APM_servers .section-image img{
+margin-top: 17px;
+margin-left: -7px;
+}
+
+.autmation-workflow .section-image img{
+width: 75px;
+margin-top: 21px;
+margin-left: -9px;
+}
+
+.multi-terminal_command_invocation .section-image img{
+margin-top: 22px;
+width: 80px;
+margin-left: -2px;
 }

@@ -18,10 +18,12 @@ Experience a terminal like view to execute shell commands simultaneously on mult
 <div class='gallerysection'>
 <a rel="gallery" class="fancybox" href="/orchestrator/images/multi-terminal-command.png">
 <img src="/orchestrator/images/thumb/multi-terminal-command.png" alt=""/>
+<h4>Multi-terminal command </h4>
 </a>
 
 <a rel="gallery" class="fancybox" href="/orchestrator/images/multi-terminal3.png">
 <img src="/orchestrator/images/thumb/multi-terminal3.png" alt=""/>
+<h4>Mutlti-Terminal 3 </h4>
 </a>
 
 </div>
