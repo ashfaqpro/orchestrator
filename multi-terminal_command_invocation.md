@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Multi-Terminal Command Invocation
 permalink: /multi-terminal_command_invocation/
 subLinks: 8

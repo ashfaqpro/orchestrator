@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Features
 permalink: /features/
 navNumber: 1

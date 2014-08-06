@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Key Management and Application Discovery
 permalink: /key_management_and_application_discovery/
 subLinks: 5

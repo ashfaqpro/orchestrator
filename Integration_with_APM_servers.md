@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Integration with APM servers
 permalink: /integration_with_APM_servers/
 subLinks: 3

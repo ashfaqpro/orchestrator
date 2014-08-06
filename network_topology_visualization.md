@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Network Topology Visualization
 permalink: /network_topology_visualization/
 subLinks: 6

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Workflow Automation
 permalink: /workflow_automation/
 subLinks: 7

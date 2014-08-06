@@ -22,6 +22,12 @@ background-repeat: no-repeat, repeat-x;
 background-size: 130% 452px, auto auto;
 }
 
+body.inner{
+background-image: url(../images/background_second_bg.png);
+background-repeat:repeat-x;
+background-size: auto auto;
+}
+
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
 a         { color: #2a7ae2; text-decoration: none; }

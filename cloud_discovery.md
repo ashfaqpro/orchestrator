@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Cloud Discovery
 permalink: /cloud_discovery/
 subLinks: 4
