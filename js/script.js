@@ -17,7 +17,7 @@ $( ".trigger a" ).not( ".generated" )
         'showMarkers': false,
         'showControls': false,
         'animation': 'slide',
-        'automatic': false,
+        'automatic': true,
     });
 
     $('.sliderNav').on('click', 'li', function() {
