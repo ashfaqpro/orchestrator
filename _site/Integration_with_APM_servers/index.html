@@ -4,10 +4,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Welcome to Jekyll!</title>
+    <title>Integration with APM servers</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.">
-    <link rel="canonical" href="http://yourdomain.com/orchestrator/jekyll/update/2014/07/23/welcome-to-jekyll/">
+    <link rel="canonical" href="http://yourdomain.com/orchestrator/Integration_with_APM_servers/">
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/orchestrator/css/main.css">
@@ -82,23 +82,23 @@
       <div class="post">
 
   <header class="post-header">
-    <h1>Welcome to Jekyll!</h1>
-    <p class="meta">Jul 23, 2014</p>
+    <h1>Integration with APM servers</h1>
   </header>
 
   <article class="post-content">
-  <p>You&#39;ll find this post in your <code>_posts</code> directory - edit this post and re-build (or run with the <code>-w</code> switch) to see your changes!
-To add new posts, simply add a file in the <code>_posts</code> directory that follows the convention: YYYY-MM-DD-name-of-post.ext.</p>
+  <div class='mainContent'>
+<h2>Integration with APM servers</h2>
+<p>
+Incorporate monitoring metrics and instance health information into your site by associating it with the APM server that your deployment uses.</p>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+<h3>Detailed :</h2>
 
-<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">&quot;Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">&quot;</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">&#39;Tom&#39;</span><span class="p">)</span>
-<span class="c1">#=&gt; prints &#39;Hi, Tom&#39; to STDOUT.</span></code></pre></div>
+<ul>
+<li>Configure an APM server (ex: Graphite, New relic) that your infrastructure uses and  associate it with your site.</li>
 
-<p>Check out the <a href="http://jekyllrb.com">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll&#39;s GitHub repo</a>.</p>
+<li>Health metrics and other monitoring information collected by the APM server are then incorportated into the Orchestrator system for further analysis</li>
+</ul>
+</div>
 
   </article>
 
