@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Integration with APM servers
-permalink: /Integration_with_APM_servers/
+permalink: /integration_with_APM_servers/
 subLinks: 3
 navNumber: 7
 dontDisplayInNav : Yes
