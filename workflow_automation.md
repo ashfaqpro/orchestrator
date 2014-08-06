@@ -18,7 +18,7 @@ Get a holistic view of the site and a clear perspective of the instances, detail
 <div class='gallerysection'>
 <a rel="gallery" class="fancybox" href="/orchestrator/images/workflow-vagrant-discovery.png">
 <img src="/orchestrator/images/thumb/workflow-vagrant-discovery.png" alt=""/>
-<h4>workflow Vagrant discovery </h4>
+<h4>workflow View </h4>
 </a>
 </div>
 

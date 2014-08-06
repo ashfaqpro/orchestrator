@@ -14,6 +14,14 @@ dontDisplayInNav : Yes
 <h2>Integration with APM servers</h2>
 <p>
 Incorporate monitoring metrics and instance health information into your site by associating it with the APM server that your deployment uses.</p>
+
+<div class='gallerysection'>
+<a rel="gallery" class="fancybox" href="/orchestrator/images/apm-stats.png">
+<img src="/orchestrator/images/thumb/apm-stats.png" alt=""/>
+<h4>Discovery Site</h4>
+</a>
+
+</div>
 <ul>
 <li>Configure an APM server (ex: Graphite, New relic) that your infrastructure uses and  associate it with your site.</li>
 
