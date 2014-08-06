@@ -944,3 +944,7 @@ header.post-header {
 .content-area li {
     margin-top: 16px;
 }
+
+.site-nav .trigger {
+display: none;
+}
