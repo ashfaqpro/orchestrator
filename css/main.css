@@ -900,8 +900,8 @@ border: 1px solid rgba(255, 255, 255, 0.39) !important;
 .mainContent {
     background: #fff;
     padding: 1px 20px;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 30px;
+    margin-right: 30px;
     padding-bottom: 50px;
     position: relative;
     top: -39px;
@@ -945,7 +945,8 @@ header.post-header {
 }
 
 .content-area {
-    margin-right: 200px;
+margin-right: 200px;
+margin-left: 20px;
 }
 .content-area li {
     margin-top: 16px;
@@ -973,7 +974,7 @@ background-size: 15px;
 }
 
 .gallerysection {
-padding: 20px;
+padding: 10px 10px;
 background: #E4EAF1;
 margin: 21px 1px;
 clear: both;
