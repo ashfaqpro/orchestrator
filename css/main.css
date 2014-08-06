@@ -883,3 +883,10 @@ background: rgba(255, 255, 255, 0.37) !important;
 color: #665858;
 border: 1px solid rgba(255, 255, 255, 0.39) !important;
 }
+
+.section-image img {
+    width: 90px;
+}
+.section-image {
+    min-height: 80px;
+}
