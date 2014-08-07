@@ -24,7 +24,7 @@ Get a holistic view of the site and a clear perspective of the instances, detail
 
 
 
-<p>You can automate anything – from simple software setup and configuration to complicated application deployment on your site. Orchestrator lets you define, view, publish, execute and schedule workflows to be run on various instances.</p>
+<p>You can automate anything – from simple software setup and configuration to complicated application deployment on your site. CloudCanopy lets you define, view, publish, execute and schedule workflows to be run on various instances.</p>
 <ul>
 <li>Define a workflow with the necessary scripts.</li>
 

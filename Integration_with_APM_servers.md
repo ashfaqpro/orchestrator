@@ -25,7 +25,7 @@ Incorporate monitoring metrics and instance health information into your site by
 <ul>
 <li>Configure an APM server (ex: Graphite, New relic) that your infrastructure uses and  associate it with your site.</li>
 
-<li>Health metrics and other monitoring information collected by the APM server are then incorportated into the Orchestrator system for further analysis</li>
+<li>Health metrics and other monitoring information collected by the APM server are then incorportated into the CloudCanopy system for further analysis</li>
 </ul>
 </div>
 </div>

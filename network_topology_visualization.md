@@ -32,9 +32,9 @@ Get a holistic view of the site and a clear perspective of the instances, detail
 </a>
 </div>
 
-<p>The instance information depicted in tabular form on various cloud management consoles miss out in showing a big picture of the statuses of instances, what these instances are running or how they are communicating. Orchestrator aims to provide a better visualization of the site and make more sense of the instances and their connectivity.</p>
+<p>The instance information depicted in tabular form on various cloud management consoles miss out in showing a big picture of the statuses of instances, what these instances are running or how they are communicating. CloudCanopy aims to provide a better visualization of the site and make more sense of the instances and their connectivity.</p>
 <ul>
-<li>Orchestrator allows you to easily customize the way instances are grouped. Instances can be hierarchically grouped based on their properties and tags. This way of grouping enables you to define your own visualization of your site.</li>
+<li>CloudCanopy allows you to easily customize the way instances are grouped. Instances can be hierarchically grouped based on their properties and tags. This way of grouping enables you to define your own visualization of your site.</li>
 
 <li>You can add virtual tags to instances to identify them better or enable better grouping.</li>
 
@@ -42,7 +42,7 @@ Get a holistic view of the site and a clear perspective of the instances, detail
 
 <li>The topology also gives you the volume and snapshot information of all the instances.</li>
 
-<li>Orchestrator provides you an extensive search functionality to highlight specific instances. An assisted search is provided to help you find the instances by their properties and tags.</li>
+<li>CloudCanopy provides you an extensive search functionality to highlight specific instances. An assisted search is provided to help you find the instances by their properties and tags.</li>
 <li>Monitor the health of the instances with a graphical view of monitoring information fetched from the configured APM server. </li>
 
 <li>Automate and schedule workflows on selected instances to perform certain actions.</li>

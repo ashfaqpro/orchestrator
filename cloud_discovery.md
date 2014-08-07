@@ -23,7 +23,7 @@ Discover your cloud in a quick way and setup a site of instances, volumes, snaps
 
 </div>
 
-<p>A site in the Orchestrator terminology is a collection of instances running on a public or a private cloud. A site could define all instances in your cloud account or a collection of virtual machines in your network or a any cloud deployment.</p>
+<p>A site in the CloudCanopy terminology is a collection of instances running on a public or a private cloud. A site could define all instances in your cloud account or a collection of virtual machines in your network or a any cloud deployment.</p>
 <ul>
 <li>Build your site in a quick and easy way with your cloud account credentials. Filter the instances that you want to include in the site. </li>
 
